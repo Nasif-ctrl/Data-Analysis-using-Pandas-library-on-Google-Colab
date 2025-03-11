@@ -27,41 +27,41 @@ Before executing the program, download the CSV file `Cust_Purch_FakeData` and th
 •	If you don’t have Anaconda or Jupyter Notebook installed, visit: https://www.anaconda.com and download the installer appropriate for your OS.  
 •	After downloading, double-click on the downloaded file and follow the on-screen instructions to complete the installation process.  
 •	Locate and run the program ‘Anaconda Prompt’.  
-•	Run Jupyter Notebook after navigating to the folder containing the downloaded IPYNB file and the CSV file. For instance, if the files are located in a folder called PythonCode in Local Disk (D:), then you have to run D:\PythonCode>jupyter notebook.  
+•	Run Jupyter Notebook after navigating to the folder containing the downloaded IPYNB file and the CSV file. For instance, if the files are located in a folder called PythonCode in Local Disk (D:), then you have to run _D:\PythonCode>jupyter notebook_.  
 •	After opening the IPYNB file, select the code snippets and click on Run to run the code.  
   
 ## 🔍 __Observation__  
 After analyzing the dataset, several key insights were observed:  
 
-_Dataset Overview:_  
+### Dataset Overview:  
 The dataset contains 30,000 entries across 20 columns, covering customer details such as age, profession, spending behaviour and credit card usage.  
 
-_Customer Demographics:_  
+### Customer Demographics:  
 *	Customers' ages range from 18 to 65 years, with an average age of 41.5 years.  
 *	The most common customer names, considering full names, are Henrietta Luna, Leona Ruiz, and Katie McKinney, while the most frequent first names are Willie, Francis, and Eula.  
 
-_Spending Behavior:_  
+### Spending Behavior:  
 *	The maximum spending recorded is 100 CAD, while the minimum is 0 CAD, with an average spending of 49.99 CAD.  
 *	Dr. Bruce Bryan and Mrs. Flora Clark did not spend anything and could be targeted with promotional deals.  
 *	Mrs. Gregory Brown, Mrs. Cody Christensen, and Miss Lizzie Dixon spent 100 CAD or more, making them eligible for a loyalty reward.  
 
-_Profession & Regional Analysis:_  
+### Profession & Regional Analysis:  
 *	87 customers are Structural Engineers, of which 43 are male.  
 *	Dr. Roy Stanley, Mr. Lora Kennedy, Mrs. Nell Richards, and Mrs. Don McDaniel are female Structural Engineers from Alberta (AB).  
 *	The two most common professions in the dataset are Preschool Teacher and Distribution Manager.  
 
-_Credit Card and Email Analysis:_  
+### Credit Card and Email Analysis:  
 *	1721 people use Visa, while 3536 people use either Visa or Visa Electron.  
 *	Mrs. Gregory Brown spent 100 CAD using Visa.  
 *	2684 credit cards are set to expire in 2019, requiring timely replacement.  
-*	The top 5 most common email providers among customers are gmail.com, me.com, outlook.com, live.com, and hotmail.com.  
+*	The top 5 most common email providers among customers are _gmail.com_, _me.com_, _outlook.com_, _live.com_, and _hotmail.com_.  
 *	Miss Loretta Fletcher uses an email from "am.edu".  
 *	A single credit card number ('5020000000000230') is linked to two emails: sebvajom@kol.km and acu@jatsot.ug.  
 
-_Customer Visit Patterns:_  
+### Customer Visit Patterns:  
 *	The store experiences the highest customer traffic on Saturdays.  
 
-_Duplicate and Anomalous Entries:_  
+### Duplicate and Anomalous Entries:  
 *	Two customers, Mrs. Lilly Tyler and Mrs. Peter Cain, share the same phone number: (263) 382-8004.  
   
 ## 📌 __Things to Keep in Mind__  
