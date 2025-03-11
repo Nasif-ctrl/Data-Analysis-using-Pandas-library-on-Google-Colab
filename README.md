@@ -1,9 +1,9 @@
 # Data Analysis using Pandas library on Google Colab  
 
 ## 📝 __Overview__  
-This project's objective was to demonstrate the use of various functions in Python, specifically from the Pandas library, by analyzing a dataset. The analysis was done based on the questions in the PDF file `Questions and Answers`.  
+This project's objective was to demonstrate the use of various functions in Python, specifically from the Pandas library, by analyzing a dataset based on the questions in the PDF file `Questions and Answers`.  
 Pandas is a powerful Python library used for data manipulation and analysis. It provides data structures like DataFrames and Series, making it easier to handle structured data.  
-The programming for this project was conducted on Google Colab, a free, cloud-based platform for writing and executing Python code, which is particularly useful for data science and machine learning. It offers built-in support for GPUs and seamless integration with Google Drive. An alternative to Google Colab is Jupyter Notebooks, which is not dependent on having an internet connection, unlike Google Colab.  
+The programming for this project was conducted on Google Colab, a free, cloud-based platform for writing and executing Python code, which is particularly useful for data science and machine learning. It offers built-in support for GPUs and seamless integration with Google Drive. An alternative to Google Colab is Jupyter Notebook, which is not dependent on having an internet connection, unlike Google Colab.  
 The computer used for this project was running on Windows 10 operating system.  
     
 ## 📂 __Contents__  
@@ -16,7 +16,7 @@ The computer used for this project was running on Windows 10 operating system.
 | Questions and Answers | PDF | File containing questions and answers derived using Python code in the IPYNB file |  
   
 ## ▶️ __How to Execute the Program__  
-Before executing the program, download the CSV file Cust_Purch_FakeData and IPYNB file from this repository. If you want to try answering the questions by yourself, you can download the IPYNB file  `Customer_Purchase_Data_Exercise (Unsolved)`. If you want to see the code already used for answering the questions, you can download the IPYNB file `Customer_Purchase_Data_Exercise (Solved)` instead. Afterwards, follow these steps:  
+Before executing the program, download the CSV file `Cust_Purch_FakeData` and the IPYNB file from this repository. If you want to try answering the questions by yourself, you can download the IPYNB file  `Customer_Purchase_Data_Exercise (Unsolved)`. If you want to see the code already used for answering the questions, you can download the IPYNB file `Customer_Purchase_Data_Exercise (Solved)` instead. Afterwards, follow these steps:  
 ### If you are using Google Colab:  
 •	Upload the dataset ‘Cust_Purch_FakeData’ to a folder in your Google Drive.  
 •	Open a browser and go to https://colab.research.google.com.  
