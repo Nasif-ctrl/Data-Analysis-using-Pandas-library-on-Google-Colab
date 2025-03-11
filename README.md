@@ -31,7 +31,6 @@ Before executing the program, download the CSV file `Cust_Purch_FakeData` and th
 •	After opening the IPYNB file, select the code snippets and click on Run to run the code.  
   
 ## 🔍 __Observation__  
-After analyzing the dataset, several key insights were observed:  
 
 ### Dataset Overview:  
 The dataset contains 30,000 entries across 20 columns, covering customer details such as age, profession, spending behaviour and credit card usage.  
