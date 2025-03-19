@@ -64,8 +64,7 @@ The dataset contains 30,000 entries across 20 columns, covering customer details
 *	Two customers, Mrs. Lilly Tyler and Mrs. Peter Cain, share the same phone number: (263) 382-8004.  
   
 ## 📌 __Things to Keep in Mind__  
+* In order for Google Colab to access the CSV file in Google Drive, you need to give it permission to do so.  
 * In Google Colab, while reading the CSV file, the path in `data_root` should be customized based on the file location in your own Drive, not the one given here.  
   
 ![image](https://github.com/user-attachments/assets/a577a0e0-1ce2-46df-b517-9ab3a7225b4d)  
-
-* In order for Google Colab to access the CSV file, you need to give it permission to do so.
